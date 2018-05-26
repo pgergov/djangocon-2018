@@ -18,6 +18,3 @@ def very_bad():
         return
 
     return
-
-
-very_bad()
